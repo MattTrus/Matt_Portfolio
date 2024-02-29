@@ -4,7 +4,7 @@ Biomedical and Product Design Engineer
 
 **E:** matthew.g.trusler@gmail.com  **DOB:** 16 October 1995 [LinkedIn ](https://www.linkedin.com/in/matthew-trusler-mechanical-engineer/)**T:** (+44) 749 3320389  **N:** Irish/South African [Portfolio](https://www.canva.com/design/DAE6YYjXCow/UP8GRrvgG1AWVW176IqJDQ/view?utm_content=DAE6YYjXCow&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-**EXPERIENCE ![](Aspose.Words.503f6ab6-9ea0-42f3-9590-2be719d3c1f4.001.png)**
+**EXPERIENCE**
 
 ASSOCIATE PRODUCT DEVELOPMENT ENGINEER  
 
@@ -41,7 +41,7 @@ UCT Covid-19 Task Team  |   Mar 2020 - Aug 2020   |   Cape Town, South Africa
 - Created a UCT WhatsApp Chatbot for relaying information between the university and returning students, providing usable answers for 95% of user queries 
 - Performed usability and clinical testing of ventilators involved in South Africa’s National Ventilator Project (NVP), notably CSIR’s CodeLife ventilator, which won the NVP bid and produced 10 000 units 
 
-**EDUCATION ![](Aspose.Words.503f6ab6-9ea0-42f3-9590-2be719d3c1f4.002.png)**
+**EDUCATION**
 
 MSC BIOMEDICAL ENGINEERING 
 
@@ -55,7 +55,7 @@ University of Cape Town  |   Jan 2014- Dec 2018
 
 ‘Design of Brace for Posterior Cruciate Ligament Rehabilitation' - Awarded with distinction 
 
-**SKILLS ![](Aspose.Words.503f6ab6-9ea0-42f3-9590-2be719d3c1f4.003.png)**
+**SKILLS**
 
 - Patent applications and IP  • FDM 
 - Regulatory and Reimbursement pathways  • SLA 
